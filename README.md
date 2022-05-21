@@ -1,1 +1,1 @@
-# Curso-de-ECMAScript-6-
+# curso-ecmascript
